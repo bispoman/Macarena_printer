@@ -1,0 +1,13 @@
+for (var macaCounter = 4; macaCounter>0; macaCounter--) {
+    console.log("Bailatuquerpwalegriamacarena!");
+    for (var i=0; i <3; i++) { 
+        console.log("bloblebloblablaiblablablioblablabuena");
+    }
+    var eeeee = 3
+    while ( eeeee > 0 ) {
+        console.log("eeeee");
+        eeeee--;
+    }
+    console.log("macarena!");
+    console.log("AAAAAI!");
+}
